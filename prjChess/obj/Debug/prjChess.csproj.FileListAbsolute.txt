@@ -1,0 +1,14 @@
+D:\University\CanTho University\Niên luận cơ sở\Project\prjChess\prjChess\bin\Debug\prjChess.exe.config
+D:\University\CanTho University\Niên luận cơ sở\Project\prjChess\prjChess\bin\Debug\prjChess.exe
+D:\University\CanTho University\Niên luận cơ sở\Project\prjChess\prjChess\bin\Debug\prjChess.pdb
+D:\University\CanTho University\Niên luận cơ sở\Project\prjChess\prjChess\obj\Debug\prjChess.csprojAssemblyReference.cache
+D:\University\CanTho University\Niên luận cơ sở\Project\prjChess\prjChess\obj\Debug\prjChess.Properties.Resources.resources
+D:\University\CanTho University\Niên luận cơ sở\Project\prjChess\prjChess\obj\Debug\prjChess.csproj.GenerateResource.cache
+D:\University\CanTho University\Niên luận cơ sở\Project\prjChess\prjChess\obj\Debug\prjChess.csproj.CoreCompileInputs.cache
+D:\University\CanTho University\Niên luận cơ sở\Project\prjChess\prjChess\obj\Debug\prjChess.exe
+D:\University\CanTho University\Niên luận cơ sở\Project\prjChess\prjChess\obj\Debug\prjChess.pdb
+D:\University\CanTho University\Niên luận cơ sở\Project\prjChess\prjChess\obj\Debug\prjChess.Main.resources
+D:\University\CanTho University\Niên luận cơ sở\Project\prjChess\prjChess\bin\Debug\prjChess.exe.manifest
+D:\University\CanTho University\Niên luận cơ sở\Project\prjChess\prjChess\bin\Debug\prjChess.application
+D:\University\CanTho University\Niên luận cơ sở\Project\prjChess\prjChess\obj\Debug\prjChess.exe.manifest
+D:\University\CanTho University\Niên luận cơ sở\Project\prjChess\prjChess\obj\Debug\prjChess.application
